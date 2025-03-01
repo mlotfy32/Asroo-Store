@@ -4,6 +4,8 @@ Some of the cool features applied in this project:
 
 • Localization (ar, en).
 
+• Light and Dark mode.
+
 • GraphQI & Restl Api.
 
 • Hive.
